@@ -4,12 +4,14 @@ Este repositório é o Desafio de Projeto que fecha o Bootcamp [Neo4j Certified 
 
 ## Minha Certificação
 
-- **Nome:** Seu Nome
-- **Certificado:** https://graphacademy.neo4j.com/c/seu-codigo
+- **Nome:** Gremis Alejandra Tovar Tovar
+- **Certificado:** [https://graphacademy.neo4j.com/c/seu-codigo](https://graphacademy.neo4j.com/c/d508d4bb-95d6-40f3-ad4f-8829adec45f8/)
 
 ## Como Foi a Jornada (opcional)
 
-Em poucas linhas, conte como você se preparou, qual tema da prova deu mais trabalho e o que vem a seguir.
+Concluir o Bootcamp e conquistar a certificação Neo4j Certified Professional foi uma etapa importante na minha jornada de aprendizado. Ao longo desse caminho, aprofundei meus conhecimentos sobre bancos de dados orientados a grafos, modelagem de dados e consultas com Cypher.
+
+Essa conquista me motiva a continuar estudando e a colocar o conhecimento em prática, desenvolvendo projetos que explorem as conexões entre os dados.
 
 ## Como Entregar
 
